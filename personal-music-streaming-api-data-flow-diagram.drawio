@@ -1,40 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T17:19:47.162Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="qI838_V_HzlLLJRaMtz4" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-12T18:01:50.726Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="6M31xray7fRYLaLJQA48" version="14.1.9" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1246" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1246" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qr-qx5x55nv_AohyINdz-10" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fillColor=none;" edge="1" parent="1" source="ZNmhZOTR8wSGWyGrQ9kP-28">
+        <mxCell id="qr-qx5x55nv_AohyINdz-31" value="" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fillColor=none;" edge="1" parent="1" source="qr-qx5x55nv_AohyINdz-25" target="qr-qx5x55nv_AohyINdz-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qr-qx5x55nv_AohyINdz-25" value="Query using the&lt;br&gt;&amp;nbsp;Youtube API&lt;br&gt;&amp;nbsp;using that&amp;nbsp;&lt;b&gt;DB&lt;br&gt;&lt;/b&gt;&amp;nbsp;data when user&lt;br&gt;&amp;nbsp;asks for music" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;" vertex="1" parent="1">
+          <mxGeometry x="380" y="216" width="100" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="qr-qx5x55nv_AohyINdz-30" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.625;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=1;fillColor=none;" edge="1" parent="1" source="ZNmhZOTR8wSGWyGrQ9kP-28">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="170" y="110" as="targetPoint" />
+            <mxPoint x="210" y="166" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qr-qx5x55nv_AohyINdz-33" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.713;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=1;fillColor=none;" edge="1" parent="1" source="ZNmhZOTR8wSGWyGrQ9kP-28" target="qr-qx5x55nv_AohyINdz-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZNmhZOTR8wSGWyGrQ9kP-28" value="Request for&amp;nbsp;&lt;br&gt;Weekly playlist&lt;br&gt;from Spotify" style="shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="130" width="130" height="120" as="geometry" />
+          <mxGeometry x="40" y="186" width="180" height="164" as="geometry" />
         </mxCell>
-        <mxCell id="ZNmhZOTR8wSGWyGrQ9kP-32" value="" style="endArrow=classic;html=1;shape=flexArrow;strokeWidth=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="189.5" as="sourcePoint" />
-            <mxPoint x="250" y="189.5" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qr-qx5x55nv_AohyINdz-1" value="Query using the Youtube API" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="270" y="160" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="qr-qx5x55nv_AohyINdz-5" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=1;fillColor=none;" edge="1" parent="1" target="qr-qx5x55nv_AohyINdz-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310.5" y="320" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qr-qx5x55nv_AohyINdz-7" value="&lt;span&gt;Check the&lt;br&gt;&amp;nbsp;Youtube Query&lt;br&gt;&amp;nbsp;response for&lt;br&gt;&amp;nbsp;&lt;/span&gt;&lt;b&gt;title, channel name&lt;/b&gt;" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="240" y="320" width="140" height="140" as="geometry" />
+        <mxCell id="qr-qx5x55nv_AohyINdz-7" value="&lt;span&gt;Check the&lt;br&gt;&amp;nbsp;Youtube Query&lt;br&gt;&amp;nbsp;response for&lt;br&gt;&amp;nbsp;&lt;/span&gt;&lt;b&gt;title, channel name &lt;/b&gt;&amp;amp;&lt;br&gt;&amp;nbsp;match it with &lt;b&gt;DB&lt;br&gt;&lt;/b&gt;data" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="420" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="qr-qx5x55nv_AohyINdz-8" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Database_General.svg;" vertex="1" parent="1">
-          <mxGeometry x="190" y="70" width="60.8" height="80" as="geometry" />
+          <mxGeometry x="219.2" y="142" width="60.8" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qr-qx5x55nv_AohyINdz-12" value="&lt;span style=&quot;font-size: 11px&quot;&gt;Keep the data of weekly updates of the songs playlist in the&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#02f51b&quot;&gt;MongoDB&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.loud_callout;align=center;" vertex="1" parent="1">
-          <mxGeometry x="250.8" y="10" width="170" height="120" as="geometry" />
+          <mxGeometry x="285" y="50" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qr-qx5x55nv_AohyINdz-19" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.youtube_2;fillColor=#FF2626;gradientColor=#B5171F" vertex="1" parent="1">
+          <mxGeometry x="408.4" y="222" width="43.2" height="32.6" as="geometry" />
+        </mxCell>
+        <mxCell id="qr-qx5x55nv_AohyINdz-26" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Antu_spotify.svg/512px-Antu_spotify.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="100" y="204.6" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qr-qx5x55nv_AohyINdz-35" value="&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Weekly Updated&lt;/span&gt;&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;Playlist song info&lt;/span&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.6;dx=35;rotation=45;" vertex="1" parent="1">
+          <mxGeometry x="267.79" y="194.60000000000002" width="115.61" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
