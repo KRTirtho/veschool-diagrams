@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-11T16:09:42.924Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="EOgNlVlcj9LwR0GqTice" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-11T16:10:13.128Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="rWuTxw2d9j9rnKhRhy6L" version="14.5.10" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
-    <mxGraphModel dx="1117" dy="1064" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="920" dy="876" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -113,8 +113,8 @@
         <mxCell id="DSv5r2nfHLIZt0LfTAXu-88" value="&lt;font color=&quot;#000000&quot;&gt;A vice-principal (co-admin) is &lt;br&gt;allowed for certain permission of &lt;br&gt;admin enabled by the admin&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1090" y="370" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DSv5r2nfHLIZt0LfTAXu-89" value="&lt;font color=&quot;#000000&quot;&gt;grade moderator has permission to&lt;br&gt;change different configuration of&lt;br&gt;the grade. He is assigned by the&lt;br&gt;admin/code-admin(s)&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1180" y="635" width="230" height="70" as="geometry" />
+        <mxCell id="DSv5r2nfHLIZt0LfTAXu-89" value="&lt;font color=&quot;#000000&quot;&gt;grade moderator has permission to&lt;br&gt;change different configuration of&lt;br&gt;the grade. He is assigned by the&lt;br&gt;admin/co-admin(s)&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1180" y="634" width="227" height="72" as="geometry" />
         </mxCell>
         <mxCell id="DSv5r2nfHLIZt0LfTAXu-90" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=1;shadow=1;fontSize=14;fontColor=#FFFFFF;fillColor=#10739E;" parent="1" vertex="1">
           <mxGeometry x="1140" y="620" width="50" height="100" as="geometry" />
