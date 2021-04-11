@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-11T15:28:49.092Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="nLfhGsCzH4LOakx3lqRc" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-11T15:52:35.922Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="PJXJ3fQMtJRn40jtJOHc" version="14.5.10" type="github">
   <diagram id="9uJruY_B-ZJQ3e48zENs" name="Page-1">
-    <mxGraphModel dx="1117" dy="1064" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="745" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -353,6 +353,9 @@
         </mxCell>
         <mxCell id="vzZMUvIyuzWuzPYx9TJ4-252" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERmany;startFill=0;endArrow=ERmandOne;endFill=0;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="1" source="vzZMUvIyuzWuzPYx9TJ4-231" target="vzZMUvIyuzWuzPYx9TJ4-98">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vzZMUvIyuzWuzPYx9TJ4-253" value="&lt;ul&gt;&lt;li&gt;A user (excluding role=student) can be a teacher of any section or any class&lt;/li&gt;&lt;li&gt;User (excluding role=student) can only be class_teacher/section_head in one section&lt;/li&gt;&lt;li&gt;Except students every user is a Teacher&lt;/li&gt;&lt;li&gt;Admin/Co-Admin/grade-moderator/grade-examiner/class-teacher/teacher can take class&lt;/li&gt;&lt;li&gt;Teacher can give H.W to certain subjects of section&lt;/li&gt;&lt;li&gt;grade-moderator can give assignment for the specific grade&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="17" y="11" width="274" height="188" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
